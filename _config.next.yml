@@ -70,7 +70,7 @@ footer:
     name: fa fa-heart
     animated: true
     color: "#ff0000"
-  powered: true
+  powered: false
 
 # Post meta
 post_meta:
