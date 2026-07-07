@@ -38,8 +38,8 @@ avatar:
 
 # Social Links
 social:
-  GitHub: https://github.com/yourname || fab fa-github
-  E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  GitHub: https://github.com/billdjx || fab fa-github
+  E-Mail: mailto:billdjx@163.com || fa fa-envelope
 
 social_icons:
   enable: true
@@ -82,7 +82,7 @@ post_meta:
 # Post edit
 post_edit:
   enable: true
-  url: https://github.com/yourname/blog/tree/main/source/_posts/
+  url: https://github.com/billdjx/blog/tree/main/source/_posts/
 
 # Code block theme
 codeblock:

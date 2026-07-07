@@ -11,5 +11,5 @@ date: 2026-07-06 18:05:14
 
 ## 联系我
 
-- GitHub: [github.com/yourname](https://github.com/yourname)
-- Email: yourname@gmail.com
+- GitHub: [github.com/billdjx](https://github.com/billdjx)
+- Email: billdjx@163.com
